@@ -1,0 +1,24 @@
+/*Customization for print media*/
+* {
+	background: none!important;
+}
+.header_full,
+.breadcrumb,
+.panel-heading,
+.panel-footer,
+.footer_full,
+.manage_col {
+	display: none;
+	visibility: hidden;
+}
+.pd0 {
+    margin: 0;
+	width: 100%;
+}
+.panel-body {
+	padding: 0;
+}
+.panel-primary {
+	border: 0 none;
+	box-shadow: none;
+}
